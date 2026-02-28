@@ -12,4 +12,4 @@ const button = document.querySelector("button");
 button.addEventListener("click", changeText);
 
 // Log a message to the browser's console
-console.log("script.js file loaded successfully!");
+console.log("script.js file loaded successfully!");;
